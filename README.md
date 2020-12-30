@@ -1,2 +1,2 @@
 # Voting-system
-## Problem discription 
+## Problem discription
