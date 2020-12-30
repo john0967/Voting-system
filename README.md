@@ -12,9 +12,9 @@ this app will have many different features like
         ,Precision
         ,Reliability
 ## Team Members
-### Name                ID                  Responsibilities 
-Yohans Kasie           1358                  Project manager<br>
-Sudi Usman             1318                  Designer<br><br>
-Yeabkal Endale                               Tester<br>
-Hanan Hamid                                  coder<br>
-Lidiya Yohannis                              Designer<br>
+### Name ...............ID.................Responsibilities 
+Yohans Kasie........... 1358 ...............Project manager<br>
+Sudi Usman .............1318 ...............Designer<br><br>
+Yeabkal Endale .........1348............... Tester<br>
+Hanan Hamid.............1218............... coder<br>
+Lidiya Yohannis.........1240 .............. Designer<br>
